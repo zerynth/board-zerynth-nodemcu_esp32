@@ -14,7 +14,7 @@ The NodeMCU ESP-32S is one of the development board created by NodeMcu to evalua
 Pin Mapping
 ***********
 
-.. figure:: /custom/img/nodemcu_esp32_pin.png
+.. figure:: /custom/img/nodemcu_esp32_pin.jpg
    :align: center
    :figwidth: 100% 
    :alt: NodeMCU ESP-32S

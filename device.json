@@ -24,6 +24,7 @@
     "has_alter_ego":false,
     "uplink_reset": "reset",
     "reset_time": 4000,
+    "flash_erasable": true,
     "rodata_in_ram":true,
     "connection":{
         "baudrate":115200,
