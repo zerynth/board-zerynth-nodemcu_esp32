@@ -44,6 +44,7 @@
     "has_alter_ego": false,
     "uplink_reset": "reset",
     "reset_time": 4000,
+    "reset_after_uplink": true,
     "flash_erasable": true,
     "rodata_in_ram": true,
     "connection": {
